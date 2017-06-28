@@ -4,7 +4,15 @@
         "source": "C:\\U-Cache\\android_svn\\test\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
+        "merged": "C:\\U-Cache\\android_svn\\PerfectGridView\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\U-Cache\\android_svn\\PerfectGridView\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\U-Cache\\android_svn\\test\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
         "source": "C:\\U-Cache\\android_svn\\test\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\U-Cache\\android_svn\\PerfectGridView\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "C:\\U-Cache\\android_svn\\PerfectGridView\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     }
 ]

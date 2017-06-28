@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\U-Cache\\android_svn\\PerfectGridView\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\ZHOU\\.android\\build-cache\\24bb75037f636eda5cb539636559a40574d4b0d3\\output\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
         "merged": "C:\\U-Cache\\android_svn\\test\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
         "source": "C:\\Users\\ZHOU\\.android\\build-cache\\24bb75037f636eda5cb539636559a40574d4b0d3\\output\\res\\color-v23\\abc_color_highlight_material.xml"
     },
@@ -28,6 +32,10 @@
         "source": "C:\\Users\\ZHOU\\.android\\build-cache\\24bb75037f636eda5cb539636559a40574d4b0d3\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
     },
     {
+        "merged": "C:\\U-Cache\\android_svn\\PerfectGridView\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\ZHOU\\.android\\build-cache\\24bb75037f636eda5cb539636559a40574d4b0d3\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
         "merged": "C:\\U-Cache\\android_svn\\test\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
         "source": "C:\\Users\\ZHOU\\.android\\build-cache\\24bb75037f636eda5cb539636559a40574d4b0d3\\output\\res\\color-v23\\abc_tint_switch_track.xml"
     },
@@ -36,7 +44,39 @@
         "source": "C:\\Users\\ZHOU\\.android\\build-cache\\24bb75037f636eda5cb539636559a40574d4b0d3\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
     },
     {
+        "merged": "C:\\U-Cache\\android_svn\\PerfectGridView\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\ZHOU\\.android\\build-cache\\24bb75037f636eda5cb539636559a40574d4b0d3\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\U-Cache\\android_svn\\PerfectGridView\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Users\\ZHOU\\.android\\build-cache\\24bb75037f636eda5cb539636559a40574d4b0d3\\output\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\U-Cache\\android_svn\\PerfectGridView\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\ZHOU\\.android\\build-cache\\24bb75037f636eda5cb539636559a40574d4b0d3\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
         "merged": "C:\\U-Cache\\android_svn\\test\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
         "source": "C:\\Users\\ZHOU\\.android\\build-cache\\24bb75037f636eda5cb539636559a40574d4b0d3\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\U-Cache\\android_svn\\PerfectGridView\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\ZHOU\\.android\\build-cache\\24bb75037f636eda5cb539636559a40574d4b0d3\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\U-Cache\\android_svn\\PerfectGridView\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\ZHOU\\.android\\build-cache\\24bb75037f636eda5cb539636559a40574d4b0d3\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\U-Cache\\android_svn\\PerfectGridView\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\ZHOU\\.android\\build-cache\\24bb75037f636eda5cb539636559a40574d4b0d3\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\U-Cache\\android_svn\\PerfectGridView\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\ZHOU\\.android\\build-cache\\24bb75037f636eda5cb539636559a40574d4b0d3\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\U-Cache\\android_svn\\PerfectGridView\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\ZHOU\\.android\\build-cache\\24bb75037f636eda5cb539636559a40574d4b0d3\\output\\res\\color-v23\\abc_tint_edittext.xml"
     }
 ]

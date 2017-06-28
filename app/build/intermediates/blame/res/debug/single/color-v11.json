@@ -1,6 +1,14 @@
 [
     {
+        "merged": "C:\\U-Cache\\android_svn\\PerfectGridView\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\ZHOU\\.android\\build-cache\\24bb75037f636eda5cb539636559a40574d4b0d3\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
         "merged": "C:\\U-Cache\\android_svn\\test\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\ZHOU\\.android\\build-cache\\24bb75037f636eda5cb539636559a40574d4b0d3\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\U-Cache\\android_svn\\PerfectGridView\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
         "source": "C:\\Users\\ZHOU\\.android\\build-cache\\24bb75037f636eda5cb539636559a40574d4b0d3\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     },
     {

@@ -60,6 +60,7 @@ public class GridAdapter extends BaseAdapter {
 
         /**
          * 此段用于在绘制之后修改gv的高度
+         * 如果需要滑动，请不要设置GV的高度
          */
         final TextView tv = holder.mLimitedTextView;
         final ViewTreeObserver vo = holder.mLimitedTextView.getViewTreeObserver();
@@ -67,6 +68,7 @@ public class GridAdapter extends BaseAdapter {
             @Override
             public boolean onPreDraw() {
                 Log.i("===getview===", "  tv.heigh=" + tv.getHeight());
+
                 int line = ((int)(Math.ceil((getCount() * 1.0f) / mGv.getNumColumns())));
                 int gvHeight = 0;
                 for (int h : heights){
